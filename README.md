@@ -1,9 +1,5 @@
 # WCAG Success Criteria Tests
-The entire Web Content Accessibility Guidelines (WCAG) success criteria condensed into discrete tests grouped under filtered categories.
-
-The intention is to reduce the variance of testing for accessibility between professionals and people who have an interest in web accessibility. 
-
-Agreeing on what constitutes a failure is the first step towards testing in a consistent way and having consistent results.
+The intention is to reduce the variance of testing for accessibility between professionals and people who have an interest in web accessibility. Agreeing on what constitutes a failure is the first step towards testing in a consistent way and having consistent results.
 
 ## The Categories
 - [Default View (all WCAG success criteria)](https://www.notion.so/ce7f793eefe24a5da585420796a58a3a?v=8abb13a3af9b40d48c3099289e7dfbc3)
