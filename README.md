@@ -26,24 +26,26 @@ Each test is written in a way which is clear to understand and straightforward t
 If you ensure these tests are applied to new content you will have passed the success criteria 1.4.3 Contrast (Minimum). 
 Some tests are conditional:
 
-* A test followed by **AND** <other test> = the previous test AND this test must be applied to pass the success criteria
-* A test followed by **OR** <other test> = the previous test OR this test must be applied to pass the success criteria
+> * A test followed by **AND** <other test> = the previous test AND this test must be applied to pass the success criteria
+> * A test followed by **OR** <other test> = the previous test OR this test must be applied to pass the success criteria
 
 ### Examples
 
 * 1.1.1 Non-text Content - two different modalities of CAPTCHA are provided
-* 1.1.1 Non-text Content - or, providing access to a human to bypass CAPTCHA
-* 1.1.1 Non-text Content - or, not requiring CAPTCHA for authorised users  
+* 1.1.1 Non-text Content - **or**, providing access to a human to bypass CAPTCHA
+* 1.1.1 Non-text Content - **or**, not requiring CAPTCHA for authorised users  
   
 > **Apply any of the 3 tests**
 
 * 1.3.1 Info and Relationships - two or more radio buttons, or checkbox controls must be grouped using a `<fieldset>`
-* 1.3.1 Info and Relationships - and, the `<fieldset>` must have a succinct `<legend>` element  
+* 1.3.1 Info and Relationships - **and**, the `<fieldset>` must have a succinct `<legend>` element  
 
 > **Apply both tests**
   
 ## What this list isn't
-It's not a catch-all list for things which you feel _should_ be accessibility failures but aren't. This is a list of our interpretation of what each WCAG 2.1 success criteria means and distilling that meaning into one or more tests.
+It's not a catch-all list for things which you feel _should_ be accessibility failures but aren't. This is a list of our interpretation of what each WCAG 2.1 success criteria means and distilling that meaning into one or more tests. 
+  
+This project is aimed at conveying facts. Tests should strive to avoid personal preferences for identifying accessibility failures.
 
 Accessibility best practice (those things which should be WCAG failures but aren't) will be in a separate filterable list.
 
