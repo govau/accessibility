@@ -45,8 +45,6 @@ Some tests are conditional:
 ## What this list isn't
 It's not a catch-all list for things which you feel _should_ be accessibility failures but aren't. This is a list of our interpretation of what each WCAG 2.1 success criteria means and distilling that meaning into one or more tests. 
   
-This project is aimed at conveying facts. Tests should strive to avoid personal preferences for identifying accessibility failures.
-
 Accessibility best practice (those things which should be WCAG failures but aren't) will be in a separate filterable list.
 
 ## Contributing
@@ -60,7 +58,9 @@ However not every request will be actioned. If your request is to add a further 
 https://www.tpgi.com/heading-off-confusion-when-do-headings-fail-wcag/
 > WCAG techniques, such as H42: Using h1-h6 to identify headings and ARIA12: Using role=heading to identify headings, recommend that heading markup indicate the appropriate heading level for the content, but they don’t go so far as to define what’s “appropriate”—an issue that has been the subject of considerable discussion. So although hierarchical heading structures reflect a best practice, skipping heading levels does not represent a WCAG failure.
 
-In short all requests are welcomed and appreciated, but are included only after consensus amongst the community.
+In short all requests are welcomed and appreciated, but are included only after consensus amongst the community. 
+  
+This project is aimed at conveying facts. Tests should strive to avoid personal preferences for identifying accessibility failures.
 
 ## License
 MIT Licensed. Copyright (c) CANAXESS 2021.
