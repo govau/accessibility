@@ -14,7 +14,7 @@ These cateogries group the WCAG 2.1 success criteria according to what part of t
 - [Audio/Video](https://www.notion.so/ce7f793eefe24a5da585420796a58a3a?v=696312cd4a3e44c99f4d64f01a25705f)
 
 ### Using the tests
-Each test is written in a way which is clear to understand the [accessibiltiy guidance for font sizing](https://www.notion.so/ce7f793eefe24a5da585420796a58a3a?v=83f6ef5cba9247a9beaf2c75cc834b38):
+Each test is written in a way which is clear to understand, i.e. [accessibility guidance for font sizing](https://www.notion.so/ce7f793eefe24a5da585420796a58a3a?v=83f6ef5cba9247a9beaf2c75cc834b38):
 - `text smaller than 18.6px and bold has a minimum contrast ratio of 4.5:1 with the background colour`
 - `text at least 18.6px and bold has a minimum contrast ratio of 3:1 with the background colour`
 - `text smaller than 24px and not bold has a minimum contrast ratio of 4.5:1 with the background colour`
