@@ -1,4 +1,4 @@
-# wcag-sc-tests
+# WCAG Success Criteria Tests
 The entire Web Content Accessibility Guidelines (WCAG) success criteria condensed into discrete tests grouped under filtered categories.
 
 ## License
