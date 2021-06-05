@@ -3,7 +3,7 @@
 The intention is to reduce the variance of testing for web accessibility between professionals and people who have an interest in accessibility. Agreeing on what constitutes a failure is the first step towards testing in a consistent way and having consistent results.
 
 ## The Categories
-These cateogries group the [WCAG 2.1 success criteria](https://www.w3.org/TR/WCAG21/) according to what part of the website you're developing. Allowing you to focus on the relevant criteria you need to apply and understand versus the criteria you can ignore. 
+These cateogries group the [WCAG 2.1 success criteria](https://www.w3.org/TR/WCAG21/) according to what part of the website you're developing. Allowing you to focus on the relevant criteria you need to apply and understand versus the criteria which can be ignored. 
 
 > i.e. if your website doesn't have video or audio content you don't need to test against those criteria.
 - [Default View (all WCAG success criteria)](https://www.notion.so/ce7f793eefe24a5da585420796a58a3a?v=8abb13a3af9b40d48c3099289e7dfbc3)
@@ -17,12 +17,22 @@ These cateogries group the [WCAG 2.1 success criteria](https://www.w3.org/TR/WCA
 - [Audio/Video](https://www.notion.so/ce7f793eefe24a5da585420796a58a3a?v=696312cd4a3e44c99f4d64f01a25705f)
 
 ### Using the tests
-Each test is written in a way which is clear to understand, i.e. [accessibility guidance for font sizing](https://www.notion.so/ce7f793eefe24a5da585420796a58a3a?v=83f6ef5cba9247a9beaf2c75cc834b38):
+Each test is written in a way which is clear to understand and straightforward to apply to web content, i.e. [accessibility guidance for font sizing](https://www.notion.so/ce7f793eefe24a5da585420796a58a3a?v=83f6ef5cba9247a9beaf2c75cc834b38):
 - `text smaller than 18.6px and bold has a minimum contrast ratio of 4.5:1 with the background colour`
 - `text at least 18.6px and bold has a minimum contrast ratio of 3:1 with the background colour`
 - `text smaller than 24px and not bold has a minimum contrast ratio of 4.5:1 with the background colour`
 - `text at least 24px and not bold has a minimum contrast ratio of 3:1 with the background colour`
 
+If you ensure these tests are applied to new content you will have passed the success criteria 1.4.3 Contrast (Minimum). 
+Some tests are conditional:
+
+* A test followed by **AND** <other test> - the previous test AND this test must be applied to pass the success criteria
+* A test followed by **OR** <other test> - the previous test OR this test must be applied to pass the success crtiera
+
+### Examples
+
+  
+  
 ## What this list isn't
 It's not a catch-all list for things which you feel _should_ be accessibility failures but aren't. This is a list of our interpretation of what each WCAG 2.1 success criteria means and distilling that meaning into one or more tests.
 
@@ -30,11 +40,11 @@ Accessibility best practice (those things which should be WCAG failures but aren
 
 ## Contributing
 Disagree with any of the tests? great! There are several ways to contribute:
-- Log an issue in this repo, click "Issues" and follow the process of adding an issue that indicates you disagree with an issue
-- Send an email to ross.mullen@canaxess.com.au to indicate you want to alter/add a test
-- Send a Twitter DM to [@mrrossmullen](https://twitter.com/mrrossmullen?lang=en) to indicate you want to alter/add a test
+- Log an issue in this repo, click "Issues" and follow the process of adding an issue
+- Send an email to ross.mullen@canaxess.com.au to indicate you disagree and want to alter a test/add a test
+- Send a Twitter DM to [@mrrossmullen](https://twitter.com/mrrossmullen?lang=en) to indicate you disagree and want to alter a test/add a test
 
-However not every request will be added. You will need to justify how your addition is a failure against WCAG, i.e. non-sequential headings are not a WCAG 2.1 failure. 
+However not every request will be actioned. If your request is to add a further test, you will need to justify how the test fails against WCAG, i.e. non-sequential headings are not a WCAG 2.1 failure. 
 
 https://www.tpgi.com/heading-off-confusion-when-do-headings-fail-wcag/
 > WCAG techniques, such as H42: Using h1-h6 to identify headings and ARIA12: Using role=heading to identify headings, recommend that heading markup indicate the appropriate heading level for the content, but they don’t go so far as to define what’s “appropriate”—an issue that has been the subject of considerable discussion. So although hierarchical heading structures reflect a best practice, skipping heading levels does not represent a WCAG failure.
