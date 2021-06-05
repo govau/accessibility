@@ -31,7 +31,16 @@ Some tests are conditional:
 
 ### Examples
 
+* 1.1.1 Non-text Content - two different modalities of CAPTCHA are provided
+* 1.1.1 Non-text Content - or, providing access to a human to bypass CAPTCHA
+* 1.1.1 Non-text Content - or, not requiring CAPTCHA for authorised users  
   
+**Apply any of the 3 tests**
+
+* 1.3.1 Info and Relationships - two or more radio buttons, or checkbox controls must be grouped using a `<fieldset>`
+* 1.3.1 Info and Relationships - and, the `<fieldset>` must have a succinct `<legend>` element  
+
+**Apply both tests**
   
 ## What this list isn't
 It's not a catch-all list for things which you feel _should_ be accessibility failures but aren't. This is a list of our interpretation of what each WCAG 2.1 success criteria means and distilling that meaning into one or more tests.
