@@ -23,6 +23,8 @@ Each test is written in a way which is clear to understand, i.e. [accessibility 
 ## What this list isn't
 It's not a catch-all list for things which you feel _should_ be accessibility failures but aren't. This is a list of our interpretation of what each WCAG 2.1 success criteria means and distilling that meaning into one or more tests.
 
+Accessibility best practice (those things which should be WCAG failures but aren't) will be in a separate filterable list.
+
 ## Contributing
 Disagree with any of the tests? great! There are several ways to contribute:
 - Log an issue in this repo, click "Issues" and follow the process of adding an issue that indicates you disagree with an issue
