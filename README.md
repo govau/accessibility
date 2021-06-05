@@ -1,11 +1,11 @@
 ![current WCAG version 2.1](https://img.shields.io/badge/current%20version-WCAG%202.1-%230a5470?style=flat)
 # WCAG Success Criteria Tests
-The intention is to reduce the variance of testing for accessibility between professionals and people who have an interest in web accessibility. Agreeing on what constitutes a failure is the first step towards testing in a consistent way and having consistent results.
+The intention is to reduce the variance of testing for web accessibility between professionals and people who have an interest in accessibility. Agreeing on what constitutes a failure is the first step towards testing in a consistent way and having consistent results.
 
 ## The Categories
-These cateogries group the [WCAG 2.1 success criteria](https://www.w3.org/TR/WCAG21/) according to what part of the UI you're developing. Allowing you to focus on the relevant criteria you need to apply and understand versus the criteria you can ignore. 
+These cateogries group the [WCAG 2.1 success criteria](https://www.w3.org/TR/WCAG21/) according to what part of the website you're developing. Allowing you to focus on the relevant criteria you need to apply and understand versus the criteria you can ignore. 
 
-i.e. if your site doesn't have video or audio content you don't need to test against those criteria.
+> i.e. if your website doesn't have video or audio content you don't need to test against those criteria.
 - [Default View (all WCAG success criteria)](https://www.notion.so/ce7f793eefe24a5da585420796a58a3a?v=8abb13a3af9b40d48c3099289e7dfbc3)
 - [Forms and UI](https://www.notion.so/ce7f793eefe24a5da585420796a58a3a?v=d32b0032ed55407b95a422c450e94ef5)
 - [Customs Controls](https://www.notion.so/ce7f793eefe24a5da585420796a58a3a?v=2c170a694a9246a98d9cd5acc5754016)
@@ -39,7 +39,7 @@ However not every request will be added. You will need to justify how your addit
 https://www.tpgi.com/heading-off-confusion-when-do-headings-fail-wcag/
 > WCAG techniques, such as H42: Using h1-h6 to identify headings and ARIA12: Using role=heading to identify headings, recommend that heading markup indicate the appropriate heading level for the content, but they don’t go so far as to define what’s “appropriate”—an issue that has been the subject of considerable discussion. So although hierarchical heading structures reflect a best practice, skipping heading levels does not represent a WCAG failure.
 
-In short all requests are welcomed and appreciated, but are included after consensus amongst the community.
+In short all requests are welcomed and appreciated, but are included only after consensus amongst the community.
 
 ## License
 MIT Licensed. Copyright (c) CANAXESS 2021.
