@@ -52,8 +52,7 @@ Accessibility best practice (those things which should be WCAG failures but aren
 ## Contributing
 Disagree with any of the tests? great! There are several ways to contribute:
 - Log an issue in this repo, click "Issues" and follow the process of adding an issue
-- Send an email to ross.mullen@canaxess.com.au to indicate you disagree and want to alter a test/add a test
-- Send a Twitter DM to [@mrrossmullen](https://twitter.com/mrrossmullen?lang=en) to indicate you disagree and want to alter a test/add a test
+- Send an email to designsystem@dta.gov.au to indicate you disagree and want to alter a test/add a test
 
 However not every request will be actioned. If your request is to add a further test, you will need to justify how the test fails against WCAG, i.e. non-sequential headings are not a WCAG 2.1 failure. 
 
@@ -65,4 +64,4 @@ In short all requests are welcomed and appreciated, but are included only after 
 This project is aimed at conveying facts. Tests should strive to avoid personal preferences for identifying accessibility failures.
 
 ## License
-MIT Licensed. Copyright (c) CANAXESS 2021.
+MIT Licensed.
