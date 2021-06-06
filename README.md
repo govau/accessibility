@@ -2,10 +2,10 @@
 # WCAG Success Criteria Tests
 The intention is to reduce the variance of testing for web accessibility between professionals and people who have an interest in accessibility. Agreeing on what constitutes a failure is the first step towards testing in a consistent way and having consistent results.
 
-Portions of the tests are sourced from the [Deque University](https://dequeuniversity.com/) Introduction to WCAG Conformance Testing, detailed methodology.
+Portions of the tests are sourced from the [Deque University](https://dequeuniversity.com/) Introduction to WCAG Conformance Testing detailed methodology.
 
 ## The Categories
-These cateogries group the [WCAG 2.1 success criteria](https://www.w3.org/TR/WCAG21/) according to what part of the website you're developing. Allowing you to focus on the relevant criteria you need to apply and understand versus the criteria which can be ignored. 
+These cateogries group the [WCAG 2.1 level AA success criteria](https://www.w3.org/TR/WCAG21/) according to what part of the website you're developing. Allowing you to focus on the relevant criteria you need to apply and understand versus the criteria which can be ignored. 
 
 > i.e. if your website doesn't have video or audio content you don't need to test against those criteria.
 - [Default View (all WCAG success criteria)](https://www.notion.so/ce7f793eefe24a5da585420796a58a3a?v=8abb13a3af9b40d48c3099289e7dfbc3)
