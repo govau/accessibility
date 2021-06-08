@@ -7,7 +7,7 @@ Portions of the tests are sourced from the [Deque University](https://dequeunive
 ## The Categories
 These cateogries group the [WCAG 2.1 level AA success criteria](https://www.w3.org/TR/WCAG21/) according to what part of the website you're developing. Allowing you to focus on the relevant criteria you need to apply and understand versus the criteria which can be ignored. 
 
-> i.e. if your website doesn't have video or audio content you don't need to test against those criteria.
+> For example, if your website doesn't have video or audio content you don't need to test against those criteria.
 - [Default View (all WCAG success criteria)](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=6ada80f459e74ac7aaca499beb1c66a4)
 - [Forms and UI](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=12a87dc4da84412f99ecaae9fc0388c9)
 - [Custom Controls](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=a56fc94a0ee14e6db16d3e3ede18d757)
@@ -19,7 +19,7 @@ These cateogries group the [WCAG 2.1 level AA success criteria](https://www.w3.o
 - [Audio/Video](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=81b9d14ab0be47f28ae4760404187b6d)
 
 ### Using the tests
-Each test is written in a way which is clear to understand and straightforward to apply to web content, i.e. [accessibility guidance for font sizing](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=ec4067a1e3d146319b47b909b501388a):
+Each test is written in a way which is clear to understand and straightforward to apply to web content. For example [accessibility guidance for font sizing](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=ec4067a1e3d146319b47b909b501388a):
 - `text smaller than 18.6px and bold has a minimum contrast ratio of 4.5:1 with the background colour`
 - `text at least 18.6px and bold has a minimum contrast ratio of 3:1 with the background colour`
 - `text smaller than 24px and not bold has a minimum contrast ratio of 4.5:1 with the background colour`
