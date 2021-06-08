@@ -5,9 +5,11 @@ The intention is to reduce the variance of testing for web accessibility between
 Portions of the tests are sourced from the [Deque University](https://dequeuniversity.com/) Introduction to WCAG Conformance Testing detailed methodology.
 
 ## The Categories
-These cateogries group the [WCAG 2.1 level AA success criteria](https://www.w3.org/TR/WCAG21/) according to what part of the website you're developing. Allowing you to focus on the relevant criteria you need to apply and understand versus the criteria which can be ignored. 
+These cateogries group the [WCAG 2.1 level AA success criteria](https://www.w3.org/TR/WCAG21/) according to the section of the website you're developing or your role. Allowing you to focus on the relevant criteria you need to apply and understand versus the criteria which can be ignored. 
 
 > For example, if your website doesn't have video or audio content you don't need to test against those criteria.
+
+### Section based
 - [Default View (all WCAG success criteria)](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=6ada80f459e74ac7aaca499beb1c66a4)
 - [Forms and UI](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=12a87dc4da84412f99ecaae9fc0388c9)
 - [Custom Controls](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=a56fc94a0ee14e6db16d3e3ede18d757)
