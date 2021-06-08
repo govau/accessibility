@@ -10,7 +10,7 @@ These cateogries group the [WCAG 2.1 level AA success criteria](https://www.w3.o
 > i.e. if your website doesn't have video or audio content you don't need to test against those criteria.
 - [Default View (all WCAG success criteria)](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=6ada80f459e74ac7aaca499beb1c66a4)
 - [Forms and UI](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=12a87dc4da84412f99ecaae9fc0388c9)
-- [Customs Controls](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=a56fc94a0ee14e6db16d3e3ede18d757)
+- [Custom Controls](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=a56fc94a0ee14e6db16d3e3ede18d757)
 - [Dynamic UI](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=902cc37b4b0242798ee0f664cbaf1ae7)
 - [Content](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=76cb009968c0417ab7c55a205a7ed107)
 - [Font Size and Colour](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=ec4067a1e3d146319b47b909b501388a)
