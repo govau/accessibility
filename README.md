@@ -21,12 +21,13 @@ These cateogries group the [WCAG 2.1 level AA success criteria](https://www.w3.o
 - [Audio/Video](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=81b9d14ab0be47f28ae4760404187b6d)
 
 ### Role based
+
+> Web Accessibility: responsibilities by project role from The University of Melbourne
+
 - [Visual Designer](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=c33b22aa840e47cf9b5f9a599725c335)
 - [UX / Interaction Designer](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=841071c1d9764726b5b2eb630fb230f6)
 - [Developer](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=a0e116bdca5b4dff8d9ebedde244ea96)
 - [Content Editor](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=49371d38543d4e33889ec00d56afc8a8)
-
-> Web Accessibility: responsibilities by project role from The University of Melbourne
 
 ### Using the tests
 Each test is written in a way which is clear to understand and straightforward to apply to web content. For example [accessibility guidance for font sizing](https://www.notion.so/5bf080c521c5486db8a4995cce275f1b?v=ec4067a1e3d146319b47b909b501388a) contains the following test:
