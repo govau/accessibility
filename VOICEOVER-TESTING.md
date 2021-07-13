@@ -2,13 +2,13 @@
 Understand the core gestures for navigating VoiceOver on iOS with the [mobile testing guide Android & iOS from The Paciello Group](https://www.tpgi.com/mobile-accessibility/).
 
 ## Screen reader tests
-- `Ensure the screen readers output matches the visual output of all headings`
-- `Ensure the screen readers output matches the visual output of all links (as a minimum)`
-- `Ensure the screen readers output matches the visual output of all list elements`
-- `Ensure the screen readers output the first 2 rows of a table and announces the columns`
-- `Ensure the screen readers output every visual error message`
-- `Ensure the screen readers output all significant page activity (ajax spinner icon etc)`
-- `Ensure the screen readers output a controls role and behaviour (open/close)`
+- `Ensure the screen reader output matches the visual output of all headings`
+- `Ensure the screen reader output matches the visual output of all links (as a minimum)`
+- `Ensure the screen reader output matches the visual output of all list elements`
+- `Ensure the screen reader output the first 2 rows of a table and announces the columns`
+- `Ensure the screen reader output every visual error message`
+- `Ensure the screen reader output all significant page activity (ajax spinner icon etc)`
+- `Ensure the screen reader output a controls role and behaviour (open/close)`
 
 ## Add the accessibility shortcut
 1.	Enabled this by going to **Settings** / **Accessibility** / **Accessibility Shortcut**
@@ -31,19 +31,21 @@ Understand the core gestures for navigating VoiceOver on iOS with the [mobile te
 ## Test Headings
 1.	Select from the Rotor **Headings**
 2.	Swipe through the page headings
-3.	TEST : `Ensure the screen readers output matches the visual output of all headings`
+3.	TEST : `Ensure the screen reader output matches the visual output of all headings`
 
 ## Test Links
 1.	Select from the Rotor **Links**
 2.	Swipe through the page links
-3.	TEST : `Ensure the screen readers output matches the visual output of all links (as a minimum)`
+3.	TEST : `Ensure the screen reader output matches the visual output of all links (as a minimum)`
 
 ## Test Lists
 
 1.	Select from the Rotor **Lists**
 2.	Swipe through the page lists
-3.	TEST : `Ensure the screen readers output matches the visual output of all list elements`
+3.	TEST : `Ensure the screen reader output matches the visual output of all list elements`
 
 ## Test Tables
 
-~ ongoing
+1.	Select from the Rotor **Tables**
+2.	Swipe through the page tables
+3.	TEST : `Ensure the screen reader output the first 2 rows of a table and announces each column`
