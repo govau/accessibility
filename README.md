@@ -42,7 +42,7 @@ Some tests are conditional:
 > * A test followed by **AND** <other test> = the previous test AND this test must be applied to pass the success criteria
 > * A test followed by **OR** <other test> = the previous test OR this test must be applied to pass the success criteria
 
-### Examples
+### Interpreting the tests
 
 * 1.1.1 Non-text Content - two different modalities of CAPTCHA are provided
 * 1.1.1 Non-text Content - **or**, providing access to a human to bypass CAPTCHA
