@@ -31,15 +31,19 @@ Understand the core gestures for navigating VoiceOver on iOS with the [mobile te
 ## Test Headings
 1.	Select from the Rotor **Headings**
 2.	Swipe through the page headings
-3.	Is the visual text the same as the audible screen reader output?
+3.	TEST : `Ensure the screen readers output matches the visual output of all headings`
 
 ## Test Links
 1.	Select from the Rotor **Links**
 2.	Swipe through the page links
-3.	Is the visual text the same as the audible screen reader output (at a minimum)?
+3.	TEST : `Ensure the screen readers output matches the visual output of all links (as a minimum)`
 
 ## Test Lists
 
 1.	Select from the Rotor **Lists**
 2.	Swipe through the page lists
-3.	Is the visual list the same as the audible screen reader output?
+3.	TEST : `Ensure the screen readers output matches the visual output of all list elements`
+
+## Test Tables
+
+~ ongoing
