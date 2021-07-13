@@ -18,7 +18,7 @@ Understand the core gestures for navigating VoiceOver on iOS with the [mobile te
 
 ## Add the Rotor actions
 1.	Enabled these by going to **Settings** / **Accessibility** / **VoiceOver** / **Rotor**
-2.	Select Headings, Links, Form Controls, Tables, Lists, Landmarks
+2.	Select **Headings**, **Links**, **Form Controls**, **Tables**, **Lists**, **Landmarks**
 
 > The Rotor is a virtual control built into VoiceOver. It allows you to select how you navigate through a dial format that lists marked-up elements on screen. It works with web content as well as native apps
 
