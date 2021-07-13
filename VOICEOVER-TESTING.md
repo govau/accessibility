@@ -26,7 +26,7 @@ Understand the core gestures for navigating VoiceOver on iOS with the [mobile te
 1.	Open Safari
 2.	Go to the testing URL
 3.	Turn VoiceOver on by triple clicking the home button
-4.	Turn VoiceOver off by triple clicking the home button
+4.	Turn VoiceOver off by triple clicking the home button when testing has finished
 
 ## Test Headings
 1.	Select from the Rotor **Headings**
