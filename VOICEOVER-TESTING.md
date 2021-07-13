@@ -51,3 +51,13 @@ Understand the core gestures for navigating VoiceOver on iOS with the [mobile te
 1.	Select from the Rotor **Tables**
 2.	Swipe through the page tables
 3.	TEST : `Ensure the screen reader output the first 2 rows of a table and announces each column`
+
+## Test Error Messages
+
+1. Trigger all form errors
+2. TEST : `Ensure the screen reader output every visual error message` without swiping
+
+## Test Significant Screen activity
+
+1. Trigger significant screen change (only relevant for Single Page Applications)
+2. TEST : `Ensure the screen reader output all significant page activity (ajax spinner icon etc)`
