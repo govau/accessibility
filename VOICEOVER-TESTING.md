@@ -9,8 +9,8 @@ Understand the core gestures for navigating VoiceOver on iOS with the [mobile te
 1. `Ensure the screen reader output matches the visual output of all list elements`
 1. `Ensure the screen reader output the first 2 rows of a table and announces the columns`
 1. `Ensure the screen reader output every visual error message`
-1. `Ensure the screen reader output all significant page activity (ajax spinner icon etc)`
-1. <s>`Ensure the screen reader output a controls role and behaviour (open/close)`</s>
+1. `Ensure the screen reader output all significant page activity (ajax spinner icon, new page)`
+1. `Ensure the screen reader output a controls outcome (collapsed/expanded, x number of items returned)`
 
 ## Add the accessibility shortcut
 1.	Enabled this by going to **Settings** / **Accessibility** / **Accessibility Shortcut**
