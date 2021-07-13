@@ -4,13 +4,13 @@ Understand the core gestures for navigating VoiceOver on iOS with the [mobile te
 <a href="https://govau.github.io/accessibility/">Demo calibration page</a>
 
 ## Screen reader tests
-- `Ensure the screen reader output matches the visual output of all headings`
-- `Ensure the screen reader output matches the visual output of all links (as a minimum)`
-- `Ensure the screen reader output matches the visual output of all list elements`
-- `Ensure the screen reader output the first 2 rows of a table and announces the columns`
-- `Ensure the screen reader output every visual error message`
-- `Ensure the screen reader output all significant page activity (ajax spinner icon etc)`
-- `Ensure the screen reader output a controls role and behaviour (open/close)`
+1. `Ensure the screen reader output matches the visual output of all headings`
+1. `Ensure the screen reader output matches the visual output of all links (as a minimum)`
+1. `Ensure the screen reader output matches the visual output of all list elements`
+1. `Ensure the screen reader output the first 2 rows of a table and announces the columns`
+1. `Ensure the screen reader output every visual error message`
+1. `Ensure the screen reader output all significant page activity (ajax spinner icon etc)`
+1. <s>`Ensure the screen reader output a controls role and behaviour (open/close)`</s>
 
 ## Add the accessibility shortcut
 1.	Enabled this by going to **Settings** / **Accessibility** / **Accessibility Shortcut**
