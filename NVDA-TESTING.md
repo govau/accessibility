@@ -16,6 +16,7 @@ Understand the core navigation methods for NVDA with the [NVDA keyboard shortcut
 1.	Open Chrome
 2.	Go to the testing URL
 3.	Start NVDA
+4.	Exit NVDA when testing has completed
 
 ## Test Headings
 1.	Press **H** to move forward through all headings, **Shift + H** to move backward through all headings
