@@ -9,50 +9,33 @@ Understand the core navigation methods for NVDA with the [NVDA keyboard shortcut
 1. `Ensure the screen reader output matches the visual output of all list elements`
 1. `Ensure the screen reader output the first 2 rows of a table and announces the columns`
 1. `Ensure the screen reader output every visual error message`
-1. `Ensure the screen reader output all significant page activity (ajax spinner icon etc)`
-1. <s>`Ensure the screen reader output a controls role and behaviour (open/close)`</s>
-
--- WIP --
-
-## Add the accessibility shortcut
-1.	Enabled this by going to **Settings** / **Accessibility** / **Accessibility Shortcut**
-2.	Select **VoiceOver**
-
-> The accessibility shortcut makes testing a lot quicker and easier as you don't have to go into settings each time to switch VoiceOver on and off.
-
-## Add the Rotor actions
-1.	Enabled these by going to **Settings** / **Accessibility** / **VoiceOver** / **Rotor**
-2.	Select **Headings**, **Links**, **Form Controls**, **Tables**, **Lists**, **Landmarks**
-
-> The Rotor is a virtual control built into VoiceOver. It allows you to select how you navigate through a dial format that lists marked-up elements on screen. It works with web content as well as native apps
+1. `Ensure the screen reader output all significant page activity (ajax spinner icon, new page)`
+1. `Ensure the screen reader output a controls outcome (collapsed/expanded, x number of items returned)`
 
 ## General
-1.	Open Safari
+1.	Open Chrome
 2.	Go to the testing URL
-3.	Turn VoiceOver on by triple clicking the home button
-4.	Turn VoiceOver off by triple clicking the home button when testing has finished
+3.	Start NVDA
 
 ## Test Headings
-1.	Select from the Rotor **Headings**
-2.	Swipe through the page headings
+1.	Press **H** to move forward through all headings, **Shift + H** to move backward through all headings
 3.	TEST : `Ensure the screen reader output matches the visual output of all headings`
 
 ## Test Links
-1.	Select from the Rotor **Links**
-2.	Swipe through the page links
+1.	Press **K** to move forward through all links, **Shift + K** to move backward through all links
 3.	TEST : `Ensure the screen reader output matches the visual output of all links (as a minimum)`
 
 ## Test Lists
 
-1.	Select from the Rotor **Lists**
-2.	Swipe through the page lists
+1.	Press **L** to move forward through all lists, **Shift + L** to move backward through all lists
+2.  Within each list Press **I** to move forward through all list items, **Shift + I** to move backward through all list items
 3.	TEST : `Ensure the screen reader output matches the visual output of all list elements`
 
 ## Test Tables
 
-1.	Select from the Rotor **Tables**
-2.	Swipe through the page tables
-3.	TEST : `Ensure the screen reader output the first 2 rows of a table and announces each column`
+1.	Press **T** to move forward through all tables, **Shift + T** to move backward through all tables
+2.	Within each table press **Down Arrow** to move forward through the cells, **Up Arrow** to move backward through the cells
+4.	TEST : `Ensure the screen reader output the first 2 rows of a table and announces each column`
 
 ## Test Error Messages
 
