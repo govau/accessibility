@@ -19,23 +19,23 @@ Understand the core navigation methods for NVDA with the [NVDA keyboard shortcut
 4.	Exit NVDA when testing has completed
 
 ## Test Headings
-1.	Press **H** to move forward through all headings, **Shift + H** to move backward through all headings
+1.	Press <kbd>H</kbd> to move forward through all headings, <kbd>Shift</kbd> + <kbd>H</kbd> to move backward through all headings
 3.	TEST : `Ensure the screen reader output matches the visual output of all headings`
 
 ## Test Links
-1.	Press **K** to move forward through all links, **Shift + K** to move backward through all links
+1.	Press <kbd>K</kbd> to move forward through all links, <kbd>Shift</kbd> + <kbd>K</kbd> to move backward through all links
 3.	TEST : `Ensure the screen reader output matches the visual output of all links (as a minimum)`
 
 ## Test Lists
 
-1.	Press **L** to move forward through all lists, **Shift + L** to move backward through all lists
-2.  Within each list Press **I** to move forward through all list items, **Shift + I** to move backward through all list items
+1.	Press <kbd>L</kbd> to move forward through all lists, <kbd>Shift</kbd> + <kbd>L</kbd> to move backward through all lists
+2.  Within each list Press <kbd>I</kbd> to move forward through all list items, <kbd>Shift</kbd> + <kbd>I</kbd> to move backward through all list items
 3.	TEST : `Ensure the screen reader output matches the visual output of all list elements`
 
 ## Test Tables
 
-1.	Press **T** to move forward through all tables, **Shift + T** to move backward through all tables
-2.	Within each table press **Down Arrow** to move forward through the cells, **Up Arrow** to move backward through the cells
+1.	Press <kbd>T</kbd> to move forward through all tables, <kbd>Shift</kbd> + <kbd>T</kbd> to move backward through all tables
+2.	Within each table press <kbd>Down Arrow</kbd> to move forward through the cells, press <kbd>Up Arrow</kbd> to move backward through the cells
 4.	TEST : `Ensure the screen reader output the first 2 rows of a table and announces each column`
 
 ## Test Error Messages
