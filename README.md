@@ -2,6 +2,7 @@
 # Screen Reader Tests
 - Testing with [NVDA (Windows 10 v2020)](https://github.com/govau/accessibility/blob/main/NVDA-TESTING.md)
 - Testing with [VoiceOver (iOS v14.6)](https://github.com/govau/accessibility/blob/main/VOICEOVER-TESTING.md)
+- Testing with [TalkBack (Android v10, Android v11)](https://github.com/govau/accessibility/blob/main/TALKBACK-TESTING.md)
 
 # WCAG Success Criteria Tests
 The intention is to reduce the variance of testing for web accessibility between professionals and people who have an interest in accessibility. Agreeing on what constitutes a failure is the first step towards testing in a consistent way and having consistent results.
