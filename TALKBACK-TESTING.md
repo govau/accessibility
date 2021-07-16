@@ -57,4 +57,4 @@ The accessibility shortcut makes testing a lot quicker and easier as you don't h
 2. TEST : `Ensure the screen reader output all significant page activity (ajax spinner icon etc)`
 
 ## Test Lists and Tables
-`Unfortunately Talkback doesn't provide an easy way to navigate through Tables and Lists. So we need to manually read through each element to find out if there are any`
+A manual read through of each element is required as TalkBack doesn't provide an easy way to navigate through Tables and Lists. 
