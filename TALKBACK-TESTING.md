@@ -27,7 +27,7 @@
 The accessibility shortcut makes testing a lot quicker and easier as you don't have to go into settings each time to switch VoiceOver on and off.
 
 ## Customise the reading options
-1.	Enabled these by going to **Settings** / **Accessibility** / **Accessibility** / **VoiceOver** / **Rotor**
-2.	Select **Headings**, **Links**, **Form Controls**, **Tables**, **Lists**, **Landmarks**
+1.	Enabled these by going to **Settings** / **Accessibility** / **Accessibility** / **Installed services** / **TalkBack** / **Settings** / **Customise TlkaBack menu** / **Edit navigation options**
+2.	Select **Headings**, **Controls**, **Links**, **Landmarks**, **Special content**, **Other web navigation**
 
 
