@@ -20,9 +20,8 @@
 3.	Select **On**
 
 > (Galaxy Note 10+ Android v11 TalkBack v12.5)
-- 1
-- 2
-- 3
+1. Enabled this by going to **Settings** / **Accessibility** / **TalkBack**
+2. Toggle **TalkBack Shortcut** on
 
 The accessibility shortcut makes testing a lot quicker and easier as you don't have to go into settings each time to switch VoiceOver on and off.
 
