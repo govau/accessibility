@@ -24,7 +24,7 @@
 - 2
 - 3
 
-> The accessibility shortcut makes testing a lot quicker and easier as you don't have to go into settings each time to switch VoiceOver on and off.
+The accessibility shortcut makes testing a lot quicker and easier as you don't have to go into settings each time to switch VoiceOver on and off.
 
 ## Customise the reading options
 1.	Enabled these by going to **Settings** / **Accessibility** / **Accessibility** / **VoiceOver** / **Rotor**
