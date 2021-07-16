@@ -19,7 +19,7 @@
 2.	Select **TalkBack**
 3.	Select **On**
 
->- (Galaxy Note 10+ Android v11 TalkBack v12.5)
+> (Galaxy Note 10+ Android v11 TalkBack v12.5)
 - 1
 - 2
 - 3
