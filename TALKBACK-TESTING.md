@@ -31,27 +31,28 @@ The accessibility shortcut makes testing a lot quicker and easier as you don't h
 2.	Select **Headings**, **Controls**, **Links**, **Landmarks**, **Special content**, **Other web navigation**
 
 ## General
+> (Galaxy Note 10+ Android v11 TalkBack v12.5)
 1.	Open Chrome/Firefox
 2.	Go to the testing URL
 3.	Turn TalkBack on by holding Volume buttons for 3 seconds and do the same to turn off when testing has finished
 
 ## Test Headings
+> (Galaxy Note 10+ Android v11 TalkBack v12.5)
 1.	With TalkBack on, swipe to the right on the screen with three fingers and select **Headings** from the options
 2.	Swipe through the page headings(Swipe to right with one finger to read next **Heading** and swipe to left read previous **Heading**)
 3.	TEST : `Ensure the screen reader output matches the visual output of all headings`
 
 ## Test Links
+> (Galaxy Note 10+ Android v11 TalkBack v12.5)
 1.	With TalkBack on, swipe to the right on the screen with three fingers and select **Links** from the options
 2.	Swipe through the page links(Swipe to right with one finger to read next **Link** and swipe to left read previous **Link**)
 3.	TEST : `Ensure the screen reader output matches the visual output of all links (as a minimum)`
 
 ## Test Error Messages
-
 1. Trigger all form errors
 2. TEST : `Ensure the screen reader output every visual error message` without swiping
 
 ## Test Screen Activity
-
 1. Trigger significant screen change (only relevant for Single Page Applications)
 2. TEST : `Ensure the screen reader output all significant page activity (ajax spinner icon etc)`
 
