@@ -42,6 +42,12 @@ The accessibility shortcut makes testing a lot quicker and easier as you don't h
 2.	Swipe through the page headings(Swipe to right with one finger to read next **Heading** and swipe to left read previous **Heading**)
 3.	TEST : `Ensure the screen reader output matches the visual output of all headings`
 
+> (Galaxy Tab A7 Android v10 TalkBack v9.1)
+1.	With TalkBack on, swipe up then to the right wtih a single finger and select **Navigation** from the options
+2.	Select **Headings**
+3.	Swip through the page headings
+3.	TEST : `Ensure the screen reader output matches the visual output of all headings`
+
 ## Test Links
 > (Galaxy Note 10+ Android v11 TalkBack v12.5)
 1.	With TalkBack on, swipe to the right on the screen with three fingers and select **Links** from the options
