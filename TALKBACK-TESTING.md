@@ -2,7 +2,7 @@
 >- (Galaxy Tab A7 Android v10 TalkBack v9.1)
 >- (Galaxy Note 10+ Android v11 TalkBack v12.5)
 
-<a href="https://govau.github.io/accessibility/">Demo calibration page</a>
+<a href="https://govau.github.io/accessibility/calibrate.html">Calibration page</a>
 
 ## Screen reader tests
 1. `Ensure the screen reader output matches the visual output of all headings`
