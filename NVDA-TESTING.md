@@ -1,7 +1,7 @@
 # NVDA (v2020)
 Understand the core navigation methods for NVDA with the [NVDA keyboard shortcuts](https://dequeuniversity.com/screenreaders/nvda-keyboard-shortcuts). 
 
-<a href="https://govau.github.io/accessibility/">Demo calibration page</a>
+<a href="https://govau.github.io/accessibility/calibrate.html">Calibration page</a>
 
 ## Screen reader tests
 1. `Ensure the screen reader output matches the visual output of all headings`
