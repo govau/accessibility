@@ -52,7 +52,7 @@ Disagree with any of the tests? great! There are several ways to contribute:
 - Log an issue in this repo, click "Issues" and follow the process of adding an issue
 - Send an email to designsystem@dta.gov.au to indicate you disagree and want to alter a test/add a test
 
-However not every request will be actioned. If your request is to add a further test, you will need to justify how the test fails against WCAG, for example non-sequential headings are not a WCAG 2.1 failure. 
+If your request is to add a further test, you will need to justify how the test fails against WCAG, for example non-sequential headings are not a WCAG 2.1 failure. 
 
 https://www.tpgi.com/heading-off-confusion-when-do-headings-fail-wcag/
 > WCAG techniques, such as H42: Using h1-h6 to identify headings and ARIA12: Using role=heading to identify headings, recommend that heading markup indicate the appropriate heading level for the content, but they don’t go so far as to define what’s “appropriate”—an issue that has been the subject of considerable discussion. So although hierarchical heading structures reflect a best practice, skipping heading levels does not represent a WCAG failure.
