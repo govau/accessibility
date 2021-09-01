@@ -50,7 +50,6 @@ Accessibility best practice (those things which should be WCAG failures but aren
 ## Contributing
 Disagree with any of the tests? great! There are several ways to contribute:
 - Log an issue in this repo, click "Issues" and follow the process of adding an issue
-- Send an email to designsystem@dta.gov.au to indicate you disagree and want to alter a test/add a test
 
 If your request is to add a further test, you will need to justify how the test fails against WCAG, for example non-sequential headings are not a WCAG 2.1 failure. 
 
